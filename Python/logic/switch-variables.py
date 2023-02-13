@@ -7,6 +7,9 @@ def solution(a,b):
 
     # Write your code here
 
+    a = a + b
+    b = a - b
+    a = a - b
 
     # end of code
 
